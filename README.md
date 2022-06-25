@@ -8,6 +8,7 @@ We need to find the the pattern usage of different type of user for better under
 
 ## Summary of Findings
 [Link to result: Part I Exploration Data Analysis](https://github.com/KeonPham/Udacity_NanoDegree_DataAnalyst_Project_05/blob/ded1c3515f23372535d48c243b0918cf2dea037b/Khoa%20Pham_Project%205_Part%20I_exploration.ipynb)
+
 [Link to result: Part II Explanation Data Analysis](https://github.com/KeonPham/Udacity_NanoDegree_DataAnalyst_Project_05/blob/ded1c3515f23372535d48c243b0918cf2dea037b/Khoa%20Pham_Project%205_Part%20II_slide%20deck.ipynb)
 
 
